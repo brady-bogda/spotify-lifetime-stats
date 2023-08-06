@@ -1,7 +1,9 @@
 # Spotify Lifetime Stats
 
 Uses Extended Streaming History Data downloaded from Spotfiy account under Privacy Settings
+
 Place files into /data directory
+
 Files should have name endsong_#.json
 
 ## Installation 
