@@ -6,6 +6,8 @@ pd.set_option('display.width', 1000)
 pd.set_option('display.max_columns', None)
 # get path of all files
 
+num_top = int(input("Enter number of top songs|artists|albums: "))
+
 csv_filepaths = glob.glob(os.path.join("data", "endsong_*.json"))
 
 # merge all data into one dataframe
@@ -80,9 +82,6 @@ top_songs_summer.rename(columns={"master_metadata_track_name": "Song name", "mas
 # print("MINUTES SUMMER: ", top_songs_summer["Minutes"].sum())
 # print(top_songs_summer.head(10))
 
-print("Enter number of top songs|artists|albums")
-num_top = 10
-
 print("-----------------------------------------------")
 print("Printing Spotify Wrapped LIFETIME STATS\n\n")
 
@@ -93,8 +92,8 @@ print("**************\n")
 
 print("TOP ", num_top, " ARTISTS")
 print(top_artists.head(num_top))
-print("\n\nTOP ", 20, " SONGS")
-print(top_songs.head(20))
+print("\n\nTOP ", num_top, " SONGS")
+print(top_songs.head(num_top))
 print("\n\nTOP ", num_top, " ALBUMS")
 print(top_albums.head(num_top))
 # .sum().sort_values(by="ms_played").head())
