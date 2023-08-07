@@ -1,0 +1,51 @@
+-----------------------------------------------
+Printing Spotify Wrapped LIFETIME STATS
+
+
+**************
+TOTAL MINUTES:   22498.0
+**************
+
+TOP  10  ARTISTS
+      Artist name  Minutes  Hours  Percentage of Minutes
+1      Mac Miller   2210.0   37.0                   9.82
+2     Post Malone   1815.0   30.0                   8.07
+3    Jack Johnson   1663.0   28.0                   7.39
+4   Grateful Dead   1010.0   17.0                   4.49
+5   Morgan Wallen    680.0   11.0                   3.02
+6    Taylor Swift    678.0   11.0                   3.01
+7       Bob Dylan    483.0    8.0                   2.15
+8          Khalid    477.0    8.0                   2.12
+9    Maren Morris    452.0    8.0                   2.01
+10  Bill Callahan    391.0    7.0                   1.74
+
+
+TOP  10  SONGS
+                                            Song name         Artist name  Minutes  Number of listens  Hours
+1                                    One Fine Morning       Bill Callahan    391.0                 51    7.0
+2                                          Blue World          Mac Miller    136.0                 44    2.0
+3                                 Irene (Ravin' Bomb)             Ian Noe    140.0                 42    2.0
+4                              And It's Still Alright  Nathaniel Rateliff    145.0                 40    2.0
+5                                           I Got You        Jack Johnson     87.0                 36    1.0
+6                                        I'm Gonna Be         Post Malone    104.0                 34    2.0
+7                          Mona Lisas And Mad Hatters        Maren Morris    157.0                 34    3.0
+8                                 Talking to the Moon          Bruno Mars     76.0                 31    1.0
+9   Rocket Man (I Think It's Going To Be A Long, L...          Elton John    126.0                 31    2.0
+10                        Girl from the North Country           Bob Dylan     84.0                 29    1.0
+
+
+TOP  10  ALBUMS
+                     Album name    Artist name  Minutes  Hours
+1                       Circles     Mac Miller    868.0   14.0
+2                      Swimming     Mac Miller    699.0   12.0
+3   Dangerous: The Double Album  Morgan Wallen    577.0   10.0
+4          beerbongs & bentleys    Post Malone    571.0   10.0
+5          Hollywood's Bleeding    Post Malone    560.0    9.0
+6        Red (Taylor's Version)   Taylor Swift    492.0    8.0
+7       From Here To Now To You   Jack Johnson    479.0    8.0
+8                        Stoney    Post Malone    435.0    7.0
+9                    Apocalypse  Bill Callahan    391.0    7.0
+10                     K.I.D.S.     Mac Miller    363.0    6.0
+
+live, laugh, love wrapped
+---------------------------------------------
