@@ -17,7 +17,7 @@ pip install -r requirements.txt
 ## Usage 
 
 ```bash
-python lifetime_wrapped.py
+python lifetime_wrapped.py [num_top]
 ```
 
 see example output in *output.example.txt*

@@ -1,12 +1,18 @@
 import pandas as pd 
 import os
 import glob
+import sys
 
 pd.set_option('display.width', 1000)
 pd.set_option('display.max_columns', None)
 # get path of all files
 
-num_top = int(input("Enter number of top songs|artists|albums: "))
+try:
+     sys.argv[1] 
+except: 
+     num_top = 10
+else: 
+     num_top = int(sys.argv[1])     
 
 csv_filepaths = glob.glob(os.path.join("data", "endsong_*.json"))
 
