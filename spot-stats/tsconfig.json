@@ -1,0 +1,24 @@
+{
+    "compilerOptions": {
+        "allowJs": true,
+        "allowSyntheticDefaultImports": true,
+        "baseUrl": "./src",
+        "checkJs": false,
+        "isolatedModules": true,
+        "jsx": "react-jsx",
+        "target": "ES6",
+        "lib": ["ES6", "DOM"],
+        "strictNullChecks": true,
+      "esModuleInterop": true,
+      "forceConsistentCasingInFileNames": true,
+      "skipLibCheck": true,
+      "moduleResolution": "node",
+      "noEmit": false,
+      "paths": {
+        "*": ["types/*"]
+      }
+    },
+    "include": ["src/**/*.ts", "src/**/*.tsx"],
+    "exclude": ["node_modules"]
+  }
+  
