@@ -1,3 +1,5 @@
+# SPOTIFY TEST WEB APP
+
 ## Available Scripts
 
 In the project directory, you can run:
