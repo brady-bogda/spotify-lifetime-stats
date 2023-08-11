@@ -1,25 +1,23 @@
-import logo from './logo.svg';
-import './App.css';
+import Button from '@mui/material/Button';
+import TextField from '@mui/material/TextField';
+import { styled } from '@mui/system';
+
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <div>
+      <TextField id="outlined-basic" label="Outlined" variant="outlined" />
+      </div>
+      <div>
+      <TextField id="outlined-basic" label="Outlined" variant="outlined" />
+      </div>
+      <div>
+      <Button variant="contained" >Login</Button>
+      </div>
     </div>
   );
 }
+
 
 export default App;
