@@ -7,7 +7,7 @@ export const StyledContainer = styled('div')({
     justifyContent: 'center',
     alignItems: 'center',
     height: '100vh',
-    background: 'linear-gradient(to right bottom, #8e24aa, #3949ab)',
+    background: 'linear-gradient(to right bottom, #93E9BE, #3949ab)',
   });
   
 export const StyledPaper = styled(Paper)({

@@ -10,7 +10,7 @@ const StyledContainer = styled('div')({
   justifyContent: 'center',
   alignItems: 'center',
   height: '100vh',
-  background: 'linear-gradient(to right bottom, #8e24aa, #3949ab)',
+  background: 'linear-gradient(to right bottom, #93E9BE, #3949ab)',
 });
 
 const StyledPaper = styled(Paper)({
@@ -47,7 +47,7 @@ export const App = () => {
       <Container component="main" maxWidth="xs">
         <StyledPaper elevation={3}>
           <Routes>
-              <Route path="/dashboard" element={isLoggedIn ? <Dashboard onLogout={handleLogout}/> : <Navigate to="/" />}/>
+              <Route path="/dashboard" element={true ? <Dashboard onLogout={handleLogout}/> : <Navigate to="/" />}/>
               <Route path="/" element={
                 <div>
                 <Typography variant="h5">Login</Typography>
