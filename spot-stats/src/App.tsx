@@ -1,10 +1,13 @@
 import React, { useState } from 'react';
 import { Container, Typography } from '@mui/material';
 import { Routes, Route, Navigate, redirect, useNavigate } from 'react-router-dom';
-import { StyledDiv, StyledPaper, StyledTextField, StyledButton } from './App.style';
+import { StyledDiv } from './App.style';
 
-import {Dashboard} from './Dashboard';
+import { Login } from './Login';
+import { Profile } from './Profile';
 import { Header } from './Header';
+import { Footer } from './Footer';
+import { Feed } from './Feed';
 
 export const App = () => {
   const [isLoggedIn, setIsLoggedIn] = useState(false);
@@ -12,7 +15,7 @@ export const App = () => {
 
   const handleLogin = () => {
     setIsLoggedIn(true);
-    navigate('/dashboard');
+    navigate('/profile');
   };
 
   const handleLogout = () => {
@@ -21,29 +24,17 @@ export const App = () => {
   };
 
   return (
-    <div>
-    <Header></Header>
-    <StyledDiv>
-      <Container component="main" maxWidth="xs">
-        <StyledPaper elevation={3}>
-          <Routes>
-              <Route path="/dashboard" element={true ? <Dashboard onLogout={handleLogout}/> : <Navigate to="/" />}/>
-              <Route path="/" element={
-                <div>
-                <Typography variant="h5">Login</Typography>
-                <StyledTextField label="Username" variant="outlined" required />
-                <StyledTextField label="Password" variant="outlined" type="password" required />
-                <StyledButton variant="contained" color="primary" fullWidth onClick={handleLogin}>
-                  Login
-                </StyledButton>
-                </div>
-
-              }>
-              </Route>
-          </Routes>
-        </StyledPaper>
-      </Container>
-    </StyledDiv>
-    </div>
+    <React.Fragment>
+      <Header />
+      <Routes>
+        <Route path="/" element={<Login onLogin={handleLogin} />}></Route>
+        <Route
+          path="/profile"
+          element={true ? <Profile onLogout={handleLogout} /> : <Navigate to="/" />}
+        />
+        <Route path="/feed" element={<Feed />} />
+      </Routes>
+      <Footer />
+    </React.Fragment>
   );
-}
+};
