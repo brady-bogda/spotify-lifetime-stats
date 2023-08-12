@@ -6,13 +6,14 @@ export const StyledContainer = styled('div')({
     display: 'flex',
     justifyContent: 'center',
     alignItems: 'center',
-    height: '100vh',
+    height: 'auto',
+    width: 'auto',
     background: 'linear-gradient(to right bottom, #93E9BE, #3949ab)',
   });
   
 export const StyledPaper = styled(Paper)({
     padding: '16px',
-    width: '300px',
+    width: 'auto',
     display: 'flex',
     flexDirection: 'column',
     alignItems: 'center',

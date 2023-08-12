@@ -1,23 +1,29 @@
 import React, { useState } from 'react';
 import { Container, Typography } from '@mui/material';
-import { Routes, Route, Navigate } from 'react-router-dom';
-import { StyledContainer, StyledPaper, StyledTextField, StyledButton } from './App.style';
+import { Routes, Route, Navigate, redirect, useNavigate } from 'react-router-dom';
+import { StyledDiv, StyledPaper, StyledTextField, StyledButton } from './App.style';
 
 import {Dashboard} from './Dashboard';
+import { Header } from './Header';
 
 export const App = () => {
   const [isLoggedIn, setIsLoggedIn] = useState(false);
+  const navigate = useNavigate();
 
   const handleLogin = () => {
     setIsLoggedIn(true);
+    navigate('/dashboard');
   };
 
   const handleLogout = () => {
     setIsLoggedIn(false);
+    navigate('/');
   };
 
   return (
-    <StyledContainer>
+    <div>
+    <Header></Header>
+    <StyledDiv>
       <Container component="main" maxWidth="xs">
         <StyledPaper elevation={3}>
           <Routes>
@@ -37,6 +43,7 @@ export const App = () => {
           </Routes>
         </StyledPaper>
       </Container>
-    </StyledContainer>
+    </StyledDiv>
+    </div>
   );
 }
