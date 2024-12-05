@@ -1,0 +1,62 @@
+Enter number of top songs|artists|albums
+-----------------------------------------------
+Printing Spotify Wrapped LIFETIME STATS
+
+
+**************
+TOTAL MINUTES:   72760.0
+**************
+
+TOP  10  ARTISTS
+      Artist name  Minutes  Hours  Percentage of Minutes
+1      Mac Miller   7036.0  117.0                   9.67
+2     Post Malone   5702.0   95.0                   7.84
+3    Jack Johnson   5610.0   94.0                   7.71
+4   Grateful Dead   3347.0   56.0                   4.60
+5    Taylor Swift   2270.0   38.0                   3.12
+6   Morgan Wallen   2259.0   38.0                   3.10
+7          Khalid   1621.0   27.0                   2.23
+8       Bob Dylan   1608.0   27.0                   2.21
+9    Maren Morris   1355.0   23.0                   1.86
+10         Eminem   1183.0   20.0                   1.63
+
+
+TOP  20  SONGS
+                                            Song name         Artist name  Minutes  Number of listens  Hours
+1                                           I Got You        Jack Johnson    375.0                146    6.0
+2                                    One Fine Morning       Bill Callahan   1042.0                139   17.0
+3                                          Blue World          Mac Miller    380.0                121    6.0
+4                              And It's Still Alright  Nathaniel Rateliff    403.0                114    7.0
+5                          Mona Lisas And Mad Hatters        Maren Morris    488.0                113    8.0
+6                                        I'm Gonna Be         Post Malone    326.0                107    5.0
+7                         Girl from the North Country           Bob Dylan    316.0                105    5.0
+8                           Sunday Morning - Acoustic            Maroon 5    381.0                100    6.0
+9                                       Hand Me Downs          Mac Miller    422.0                 97    7.0
+10                                Irene (Ravin' Bomb)             Ian Noe    335.0                 96    6.0
+11                                       One Man Band        Old Dominion    257.0                 89    4.0
+12  Rocket Man (I Think It's Going To Be A Long, L...          Elton John    369.0                 87    6.0
+13                                               Home        Jack Johnson    229.0                 80    4.0
+14                                Talking to the Moon          Bruno Mars    215.0                 77    4.0
+15                                            Imagine        Jack Johnson    231.0                 77    4.0
+16                                  Tennessee Whiskey     Chris Stapleton    301.0                 75    5.0
+17                                          The Spins          Mac Miller    202.0                 75    3.0
+18                                 Come Back to Earth          Mac Miller    186.0                 74    3.0
+19                                    Better Together        Jack Johnson    235.0                 73    4.0
+20                                         In and Out             Lud Foe    211.0                 72    4.0
+
+
+TOP  10  ALBUMS
+                     Album name    Artist name  Minutes  Hours
+1                       Circles     Mac Miller   2487.0   41.0
+2                      Swimming     Mac Miller   2295.0   38.0
+3   Dangerous: The Double Album  Morgan Wallen   1908.0   32.0
+4          beerbongs & bentleys    Post Malone   1839.0   31.0
+5        Red (Taylor's Version)   Taylor Swift   1741.0   29.0
+6          Hollywood's Bleeding    Post Malone   1694.0   28.0
+7       From Here To Now To You   Jack Johnson   1567.0   26.0
+8                        Stoney    Post Malone   1476.0   25.0
+9                      K.I.D.S.     Mac Miller   1277.0   21.0
+10            In Between Dreams   Jack Johnson   1239.0   21.0
+
+live, laugh, love wrapped
+---------------------------------------------

@@ -1,0 +1,87 @@
+/* styles.css */
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background: #f4f4f4;
+    color: #333;
+  }
+  
+  .container {
+    max-width: 1200px;
+    margin: 20px auto;
+    padding: 20px;
+    background: #fff;
+    border-radius: 10px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+  }
+  
+  header {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  header h1 {
+    font-size: 2.5em;
+    color: #444;
+  }
+  
+  header .total-minutes {
+    font-size: 1.2em;
+    margin-top: 5px;
+  }
+  
+  header .total-minutes span {
+    color: #6dd9a5;
+    font-weight: bold;
+  }
+  
+  .results .section {
+    margin-bottom: 40px;
+  }
+  
+  .results h2 {
+    font-size: 1.8em;
+    color: #555;
+    margin-bottom: 10px;
+    border-bottom: 2px solid #6dd9a5;
+    padding-bottom: 5px;
+  }
+  
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 10px;
+  }
+  
+  table th, table td {
+    border: 1px solid #ddd;
+    padding: 10px;
+    text-align: left;
+  }
+  
+  table th {
+    background: #6dd9a5;
+    color: #fff;
+    text-transform: uppercase;
+  }
+  
+  table tr:nth-child(even) {
+    background: #f9f9f9;
+  }
+  
+  table tr:hover {
+    background: #f1f1f1;
+  }
+  
+  @media (max-width: 768px) {
+    .container {
+      padding: 10px;
+    }
+  
+    table {
+      font-size: 0.9em;
+    }
+  }
+  

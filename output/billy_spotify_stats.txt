@@ -1,0 +1,51 @@
+-----------------------------------------------
+Printing Spotify Wrapped LIFETIME STATS pre 2022
+
+
+**************
+TOTAL MINUTES:   194851.0
+**************
+
+TOP  10  ARTISTS
+     Artist name  Minutes  Hours  Percentage of Minutes
+1         Eminem  25888.0  431.0                  13.29
+2          Drake  12829.0  214.0                   6.58
+3     Kanye West   5975.0  100.0                   3.07
+4     Juice WRLD   4416.0   74.0                   2.27
+5    Post Malone   4175.0   70.0                   2.14
+6      Meek Mill   3435.0   57.0                   1.76
+7      SAINt JHN   3075.0   51.0                   1.58
+8   Lil Uzi Vert   2891.0   48.0                   1.48
+9       Lil Baby   2560.0   43.0                   1.31
+10       J. Cole   2026.0   34.0                   1.04
+
+
+TOP  10  SONGS
+                     Song name       Artist name  Minutes  Hours
+1   Turks (feat. Travis Scott)               NAV   1504.0   25.0
+2                    Fast Lane    Bad Meets Evil   1416.0   24.0
+3      Going Bad (feat. Drake)         Meek Mill   1405.0   23.0
+4                   Experience  Ludovico Einaudi   1243.0   21.0
+5            Can’t Take A Joke             Drake   1236.0   21.0
+6                     Immortal         21 Savage   1107.0   18.0
+7                     Gorgeous         SAINt JHN   1052.0   18.0
+8        Can't Tell Me Nothing        Kanye West   1014.0   17.0
+9                      Robbery        Juice WRLD   1010.0   17.0
+10    Pop Out (feat. Lil Tjay)            Polo G    996.0   17.0
+
+
+TOP  10  ALBUMS
+                  Album name     Artist name  Minutes  Hours
+1                   Scorpion           Drake   4579.0   76.0
+2            The Eminem Show          Eminem   4161.0   69.0
+3    The Marshall Mathers LP          Eminem   3301.0   55.0
+4            Relapse: Refill          Eminem   2867.0   48.0
+5                   Recovery          Eminem   2519.0   42.0
+6   The Marshall Mathers LP2          Eminem   1961.0   33.0
+7           Hell: The Sequel  Bad Meets Evil   1783.0   30.0
+8                     Encore          Eminem   1726.0   29.0
+9                 Graduation      Kanye West   1660.0   28.0
+10      beerbongs & bentleys     Post Malone   1634.0   27.0
+
+live, laugh, love wrapped
+---------------------------------------------

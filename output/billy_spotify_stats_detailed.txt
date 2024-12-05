@@ -1,0 +1,97 @@
+Enter number of top songs|artists|albums
+-----------------------------------------------
+Printing Spotify Wrapped LIFETIME STATS pre 2022
+
+
+**************
+TOTAL MINUTES:   194851.0
+**************
+
+TOP  25  ARTISTS
+         Artist name  Minutes  Hours  Percentage of Minutes
+1             Eminem  25888.0  431.0                  13.29
+2              Drake  12829.0  214.0                   6.58
+3         Kanye West   5975.0  100.0                   3.07
+4         Juice WRLD   4416.0   74.0                   2.27
+5        Post Malone   4175.0   70.0                   2.14
+6          Meek Mill   3435.0   57.0                   1.76
+7          SAINt JHN   3075.0   51.0                   1.58
+8       Lil Uzi Vert   2891.0   48.0                   1.48
+9           Lil Baby   2560.0   43.0                   1.31
+10           J. Cole   2026.0   34.0                   1.04
+11  Ludovico Einaudi   1903.0   32.0                   0.98
+12      Travis Scott   1869.0   31.0                   0.96
+13               NAV   1858.0   31.0                   0.95
+14    Bad Meets Evil   1783.0   30.0                   0.92
+15    Kendrick Lamar   1760.0   29.0                   0.90
+16         21 Savage   1689.0   28.0                   0.87
+17            Polo G   1650.0   28.0                   0.85
+18         Lil Tecca   1583.0   26.0                   0.81
+19          Lil Tjay   1567.0   26.0                   0.80
+20         Pop Smoke   1558.0   26.0                   0.80
+21         DJ Khaled   1449.0   24.0                   0.74
+22       Don Toliver   1441.0   24.0                   0.74
+23            Future   1434.0   24.0                   0.74
+24       Roddy Ricch   1430.0   24.0                   0.73
+25         YNW Melly   1296.0   22.0                   0.67
+
+
+TOP  25  SONGS
+                                   Song name       Artist name  Minutes  Hours
+1                 Turks (feat. Travis Scott)               NAV   1504.0   25.0
+2                                  Fast Lane    Bad Meets Evil   1416.0   24.0
+3                    Going Bad (feat. Drake)         Meek Mill   1405.0   23.0
+4                                 Experience  Ludovico Einaudi   1243.0   21.0
+5                          Can’t Take A Joke             Drake   1236.0   21.0
+6                                   Immortal         21 Savage   1107.0   18.0
+7                                   Gorgeous         SAINt JHN   1052.0   18.0
+8                      Can't Tell Me Nothing        Kanye West   1014.0   17.0
+9                                    Robbery        Juice WRLD   1010.0   17.0
+10                  Pop Out (feat. Lil Tjay)            Polo G    996.0   17.0
+11                     Dreams and Nightmares         Meek Mill    922.0   15.0
+12                        The Bigger Picture          Lil Baby    920.0   15.0
+13                       The Real Slim Shady            Eminem    904.0   15.0
+14                                   The Box       Roddy Ricch    903.0   15.0
+15                           Till I Collapse            Eminem    893.0   15.0
+16                               Go To Sleep            Eminem    872.0   15.0
+17                                SICKO MODE      Travis Scott    857.0   14.0
+18                                In and Out           Lud Foe    841.0   14.0
+19                                  Killshot            Eminem    826.0   14.0
+20     Rabbit Run - From "8 Mile" Soundtrack            Eminem    814.0   14.0
+21                                   Nonstop             Drake    783.0   13.0
+22                             Lose Yourself            Eminem    755.0   13.0
+23                               I'm Goin In             Drake    754.0   13.0
+24          Drip Too Hard (Lil Baby & Gunna)          Lil Baby    748.0   12.0
+25  Money In The Grave (Drake ft. Rick Ross)             Drake    729.0   12.0
+
+
+TOP  25  ALBUMS
+                               Album name       Artist name  Minutes  Hours
+1                                Scorpion             Drake   4579.0   76.0
+2                         The Eminem Show            Eminem   4161.0   69.0
+3                 The Marshall Mathers LP            Eminem   3301.0   55.0
+4                         Relapse: Refill            Eminem   2867.0   48.0
+5                                Recovery            Eminem   2519.0   42.0
+6                The Marshall Mathers LP2            Eminem   1961.0   33.0
+7                        Hell: The Sequel    Bad Meets Evil   1783.0   30.0
+8                                  Encore            Eminem   1726.0   29.0
+9                              Graduation        Kanye West   1660.0   28.0
+10                   beerbongs & bentleys       Post Malone   1634.0   27.0
+11                        In A Time Lapse  Ludovico Einaudi   1539.0   26.0
+12                                  Turks               NAV   1504.0   25.0
+13                          Championships         Meek Mill   1409.0   23.0
+14                    Death Race For Love        Juice WRLD   1320.0   22.0
+15                             ASTROWORLD      Travis Scott   1280.0   21.0
+16  Please Excuse Me for Being Antisocial       Roddy Ricch   1255.0   21.0
+17                                SHADYXV            Eminem   1252.0   21.0
+18       Music To Be Murdered By - Side B            Eminem   1205.0   20.0
+19                                 Stoney       Post Malone   1197.0   20.0
+20                      We Love You Tecca         Lil Tecca   1138.0   19.0
+21                                Revival            Eminem   1123.0   19.0
+22                               Immortal         21 Savage   1107.0   18.0
+23                               No Hooks           Lud Foe   1097.0   18.0
+24                Goodbye & Good Riddance        Juice WRLD   1085.0   18.0
+25                                  Views             Drake    993.0   17.0
+
+live, laugh, love wrapped
+---------------------------------------------

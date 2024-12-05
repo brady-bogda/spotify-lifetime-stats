@@ -1,0 +1,52 @@
+Enter number of top songs|artists|albums
+-----------------------------------------------
+Printing Spotify Wrapped LIFETIME STATS pre 2022
+
+
+**************
+TOTAL MINUTES:   97218.0
+**************
+
+TOP  10  ARTISTS
+      Artist name  Minutes  Hours  Percentage of Minutes
+1   Morgan Wallen   3890.0   65.0                   4.00
+2     Post Malone   3037.0   51.0                   3.12
+3    Taylor Swift   2603.0   43.0                   2.68
+4    Jack Johnson   2528.0   42.0                   2.60
+5     The Beatles   2148.0   36.0                   2.21
+6   Ariana Grande   2004.0   33.0                   2.06
+7      Luke Combs   1734.0   29.0                   1.78
+8   Rascal Flatts   1296.0   22.0                   1.33
+9    Maren Morris   1255.0   21.0                   1.29
+10       Maroon 5   1137.0   19.0                   1.17
+
+
+TOP  10  SONGS
+                 Song name    Artist name  Minutes  Hours
+1   Heartbreak Anniversary         Giveon    333.0    6.0
+2          Whiskey Glasses  Morgan Wallen    280.0    5.0
+3              Cover Me Up  Morgan Wallen    268.0    4.0
+4              Tiny Dancer     Elton John    259.0    4.0
+5                   Yellow       Coldplay    246.0    4.0
+6          Better Together   Jack Johnson    245.0    4.0
+7     Say You Won't Let Go   James Arthur    242.0    4.0
+8                   Wanted   Hunter Hayes    238.0    4.0
+9        Talkin' Tennessee  Morgan Wallen    238.0    4.0
+10         Beautiful Crazy     Luke Combs    234.0    4.0
+
+
+TOP  10  ALBUMS
+                     Album name      Artist name  Minutes  Hours
+1   Dangerous: The Double Album    Morgan Wallen   1492.0   25.0
+2                  If I Know Me    Morgan Wallen   1488.0   25.0
+3             In Between Dreams     Jack Johnson   1372.0   23.0
+4                        Stoney      Post Malone   1098.0   18.0
+5                     Speak Now     Taylor Swift    967.0   16.0
+6          beerbongs & bentleys      Post Malone    915.0   15.0
+7          Hollywood's Bleeding      Post Malone    805.0   13.0
+8          All Things Must Pass  George Harrison    677.0   11.0
+9                          SOUR   Olivia Rodrigo    614.0   10.0
+10                   Parachutes         Coldplay    541.0    9.0
+
+live, laugh, love wrapped
+---------------------------------------------
